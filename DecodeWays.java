@@ -14,6 +14,7 @@ class Solution {
             if(value >= 10 && value <= 26){
                 current = current + two; 
             }
+            
             two = one;
             one = current;
         }
