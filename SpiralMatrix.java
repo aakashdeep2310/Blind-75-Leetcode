@@ -30,6 +30,7 @@ class Solution {
                 }
                 left++;
             }
+            
         }
         return list;
         
