@@ -12,6 +12,7 @@ class Solution {
             rob1 = rob2;
             rob2 = max1;
         }
+        
         rob1 = 0;
         rob2 = 0;
 
