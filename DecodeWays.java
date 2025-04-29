@@ -18,6 +18,7 @@ class Solution {
             two = one;
             one = current;
         }
+        
         return one;
     }
 }
