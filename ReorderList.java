@@ -16,6 +16,7 @@ class Solution {
             curr.next = last;
             curr = last.next;
         }
+        
         if(curr != null){
             curr.next = null;
         }
